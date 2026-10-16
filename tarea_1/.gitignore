@@ -1,0 +1,4 @@
+# Archivos pesados del modelo (GitHub rechaza archivos de más de 100 MB)
+modelo/*.safetensors
+modelo/*.bin
+modelo/checkpoint-*/
