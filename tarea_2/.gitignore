@@ -1,0 +1,10 @@
+# Datos crudos y salidas pesadas (no se versionan)
+datos/raw/
+
+# Pesos de modelos (GitHub rechaza archivos de más de 100 MB)
+modelos/*.safetensors
+modelos/*.bin
+modelos/checkpoint-*/
+
+# Clave de la API
+.env

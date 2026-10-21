@@ -1,0 +1,27 @@
+[project]
+name = "tarea-2"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.15.0",
+    "faster-whisper>=1.2.1",
+    "google-genai>=2.32.0",
+    "ipykernel>=7.4.0",
+    "jiwer>=4.0.0",
+    "nbformat>=5.11.1",
+    "paddleocr>=3.7.0",
+    "paddlepaddle>=3.3.1",
+    "pandas>=3.0.6",
+    "plotly>=7.1.0",
+    "pyannote-audio>=4.0.7",
+    "pytesseract>=0.3.13",
+    "python-dotenv>=1.2.4",
+    "rapidfuzz>=3.14.6",
+    "requests>=2.34.2",
+    "scikit-learn>=1.9.1",
+    "soundfile>=0.14.0",
+    "torch>=2.14.1",
+    "transformers>=5.20.2",
+]
+[tool.uv]
+constraint-dependencies = ["opencv-python==4.10.0.84", "opencv-python-headless==4.10.0.84", "av<19"]
