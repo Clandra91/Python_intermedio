@@ -1,0 +1,756 @@
+id,archivo,tipo,fuente,texto_ocr,modelo_ocr,texto_referencia,caracteres,confianza_ocr
+doc_001,datos/raw/documentos/doc_001.png,impreso,"Trabajo de licenciatura de la autora (documento propio, uso autorizado)","área requiera realizar algún tipo de coordinación con la ULE, generalmente solicita el
+apoyo del CT para facilitar dicha coordinación. De acuerdo con la página web del
+SISFOH (2025), son 34 CT que deben asistir a 1891 municipalidad a nivel nacional,
+es decir, cada CT asiste en promedio 53 municipalidades®. En el informe de evaluación
+del MIDIS (2017) se señala que el rol del CT sobrepasa la capacidad, ya que solo se
+asigna 1 CT por departamento.
+En segundo lugar, se encuentra la coordinación de procesamiento, la cual es
+responsable de administrar el PGH, así como del funcionamiento de los sistemas
+informáticos que forman parte del proceso de determinación de la CSE, desde la
+acreditación del equipo técnico de la ULE, hasta el cálculo de la CSE. Esta
+coordinación ha desarrollado aplicativos que ha permitido agilizar la atención de los
+ciudadanos. En diversos estudios del SISFOH, anterior al año 2020, se hace mucho
+énfasis en la necesidad de digitalizar los procedimientos, ya que, al ser un proceso
+centralizado, todos los documentos debían ser remitidos a Lima por mensajería, lo
+cual aumentaba la cantidad de día que se requerían para atender las solicitudes de la
+CSE. Para el 2024, las ULE cuentan con aplicativos que permite realizar las siguientes
+actividades:
+Acreditar al responsable de ULE y equipo técnico, que puede estar conformado
+por un asistente, apoyo, empadronador, digitador y empadronador-digitador.
+Visualizar el detalle de la CSE de los hogares.
+Digitar la información registrada en el Formato S100 y FSU. En caso de
+inconsistencia de la información, mediante correo se le notifica el motivo
+Firmar digitalmente los Formatos D100, sea por el alcalde o gerente con
+delegación de firma.","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,1718,0.993
+doc_002,datos/raw/documentos/doc_002.png,impreso,"Trabajo de licenciatura de la autora (documento propio, uso autorizado)","documentos administrativos, correos y llamadas telefónicas. En caso se requiera
+alguna información de la ULE para atender una consulta, es frecuente solicitar el
+apoyo del CT.
+Asimismo, dicha coordinación se encargada de evaluar los Formatos D100
+remitidos por la ULE⁶, bajo los criterios indicados en el numeral 6.1.3 de la Directiva.
+En caso cumpla con los criterios, se procesa conforme el Formato D100 en el
+aplicativo de la DO, a través del cual se calcula la CSE del hogar. En caso no cumpla
+con los criterios, se procede a observar el Formato D100 y se remite a la ULE un
+correo con el detalle de la observación. Este proceso ha sido mi principal actividad en
+la DO, lo cual me ha permitido coordinar con las ULE y CT. Además, he participado
+en otras actividades como atención al ciudadano a través de llamadas, correo y
+documentos administrativos.","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,855,0.996
+doc_003,datos/raw/documentos/doc_003.png,impreso,"Trabajo de licenciatura de la autora (documento propio, uso autorizado)","considerando que se ha digitalizado varias actividades, como la capacitación a las
+ULE y parte del proceso de la determinación de la CSE.
+Asimismo, el gobiemo local debe garantizar la acreditación del responsable de
+ULE, así como de su equipo técnico; apoyar en la difusión del proceso de
+determinación de la CSE; y monitorear la atención oportuna de las solicitudes de CSE.
+Por último, y lo que está directamente vinculado a mi experiencia laboral, los alcaldes
+o gerentes con delegación de firma deben suscribir los formatos D100, ya sea manual
+o digitalmente. Con ello, la máxima autoridad del gobierno local da conformidad a la
+información recogida y procesada por la ULE, el cual se ejecutó de acuerdo con lo
+indicado en las capacitaciones brindadas por la DO.
+2.1.3. Unidades locales de empadronamiento
+Entre las responsabilidades de la ULE, según la Directiva (MIDIS, 2020), se
+encuentra atender las solicitudes de determinación, actualización y verificación? de la
+CSE solicitada por el hogar, para lo cual, la ULE debe orientar al ciudadano en el
+llenado del Formato S100 y, de corresponder, aplicar la Ficha Socioeconómica (FSU)
+en la vivienda del hogar, para recoger información relacionada al material de la
+vivienda, educación de los miembros del hogar, situación laboral, entre otros. Ambos
+instrumentos de recojo de datos deben ser registrados en el sistema informático
+proporcionado por la DO, y, de la consistencia de dicha información, se genera el
+Formato D100 “Declaraciones Juradas para la Determinación de la CSE"". Dicho
+formato, como ya se indicó, debe ser suscrito por el alcalde o gerente con delegación
+de firma. En caso dichas autoridades cuentas con la firma digital, el Formato D100 es
+suscrito en el aplicativo proporcíonado por la DO; es caso no, deben remítirlo a la DO.
+Además, la ULE debe orientar a los ciudadanos ante cualquier consulta referente
+al proceso de la determinación de la CSE, así como orientarlos en el uso de la página
+web Consulta Mi Hogar, donde pueden visualizar el detalle de su CSE. A su vez, debe
+participar de las capacitaciones convocadas por la DO, así como solicitarla de
+requerirla.","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,2143,0.992
+doc_004,datos/raw/documentos/doc_004.png,impreso,"Trabajo de licenciatura de la autora (documento propio, uso autorizado)","2.2.1. Evaluación de Formatos D100
+La evaluación de Formatos D100 está a cargo de la coordinación de atención de
+solicitudes de la DO. Desde mi primer año estuve involucrada en esta actividad, del
+cual, progresivamente, fui asumiendo mayor responsabilidad, por lo cual, debía
+coordinar con otras áreas de la DO (asistencia técnica y procesamiento), y con las
+ULE.
+Respecto a la evaluación de los Formatos D100, el equipo de evaluadores debe
+verificar que el envío cumpla los criterios indicados en el numeral 6.1.3 de la Directiva,
+siendo los siguiente:
+El Formato D100 debe ser suscrito manualmente por el alcalde o gerente con
+delegación de firma mediante Resolución de Alcaldía.
+En caso el Formato D100 sea firmado por un gerente, la firma debe realizarse
+en el periodo de delegación indicada en la Resolución de Alcaldía.
+Enviar el Formato D100 y su respectivo anexo.
+La cantidad de solicitudes del Formato D100 coincide con la cantidad generada
+por el sistema informático de la DO.
+La información del Formato D100 coincide con lo generado por el sistema
+informático de la DO.","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,1080,0.993
+doc_005,datos/raw/documentos/doc_005.png,impreso,"Trabajo de licenciatura de la autora (documento propio, uso autorizado)","Para el seguimiento de la subsanación de los Formatos D100 observados, requería
+que coordine con las ULE a través de correo y teléfono; lo cual, me permitió conocer
+las límitaciones que pueden presentan, como las difícultad para volver a envíar los
+Formatos D100 por no contar con internet o luz temporalmente, o que el alcalde no
+pueda suscribir los Formatos D100 por algún evento extraordinario (problemas de
+salud o prisión preventiva por ejemplo), y aunque la Ley Orgánica de las
+Municipalidades tiene procedimiento establecidos para dichas situaciones, hay
+municipalidades que no lo conocen.
+Además, en dichas coordinaciones he tomado conocimiento de las dificultados que
+tiene las ULE sobre los aplicativos proporcionados por la DO, los cuales fueron
+canalizados a sus CT y el área de procesamiento.En esa línea, parte de mi trabajo
+también es proponer cambio en los aplicativos relacionado a la evaluación de
+Formatos D100, con la finalidad de simplificar, en lo posible, el proceso de atención
+de las solicitudes de CSE","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,1027,0.992
+doc_006,datos/raw/documentos/doc_006.png,impreso,"Trabajo de licenciatura de la autora (documento propio, uso autorizado)","2.2.3. Apovo en el proceso de determinación de la CSE
+En mi primer año en la DO, fui parte de un proyecto que consistió en empadronar
+una lista de hogares en 10 distritos de Lima Metropolitana, con empadronadores
+contratados directamente por la DO. En este proyecto terminé de consolidar mi
+aprendizaje sobre el proceso de la determinación de la CSE, ya que estuve
+involucrada en el proceso de convocatoria de los empadronadores, capacitación,
+coordinación de la salida de campo, y digitación de la información hasta obtener su
+consistencia. Con ello, identifiqué cuan perjudicial es que la alta frecuencia rotación
+de personal en la ULE, va que se presenta gran diversidad de situaciones en el
+empadronamiento y digitación, así como en la consistencia de la información en los
+aplicativos; lo cual me lleva a reflexionar la alta demanda de consultas de las ULE que
+atienden los CT y especialistas informáticos, considerando que son 1891
+municipalidades a nivel nacional.
+A lo largo de mi experiencia laboral, tanto en la evaluación de Formatos D100 como
+en la atención de ciudadanos, en_primera instancia. he interiorizado los
+procedimientos en función a lo que indica la normativa; sin embargo, con el transcurso
+del tiempo, he tomado conocimiento y experimentado las limitaciones que se presenta
+en el desempeño cotidiano dentro de la DO, así como las limitaciones que manifiestan
+algunas ULE. En la siguiente sección se analiza 3 dimensiones del SISFOH, tanto los
+avances como limitaciones que he identificado en mi experiencia laboral, y
+retroalimentado con los estudíos del SISFOH.","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,1587,0.989
+doc_007,datos/raw/documentos/doc_007.png,impreso,"Trabajo de licenciatura de la autora (documento propio, uso autorizado)","3.1. Limitaciones en el trabajo intersectorial
+Los integrantes del SISFOH se encuentran en diversos niveles del Estado, como
+lo son los Ministerios, sus órganos de línea, los programas sociales y los gobiernos
+locales. Pero, además, requiere información de otras instituciones para para
+determinar la CSE, como lo son SUSALUD, SUNARP, SUNAT, MEF y
+OSINERGMING. Es decir, se requiere un trabajo articulado de varias instituciones
+para cumplir con el objetivo final: la intervención eficiente del Estado en los hogares
+pobres y pobres extremos del país.
+Sin embargo, de acuerdo con la bibliografía revisada, y mi experiencia laboral, se
+han identificado ciertas limitaciones que aún sigue siendo un desafío para el SISFOH.
+3.1.1. Dependencia funcional de la ULE
+Las ULE son el brazo operativo del SISFOH (MIDIS, 2017), y debe seguir los
+lineamentos indicados en la Directiva, sin embargo, funcionalmente depende del
+gobierno local de turno (Calderón & Guerrero, 2016, p. 76); es decir, el presupuesto,
+el personal contratado, el espacio asignado para atender a los ciudadanos y el
+mobiliario brindado depende de la gestión de turno, lo cual influye directamente en el
+desempeño de la ULE.","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,1186,0.992
+doc_008,datos/raw/documentos/doc_008.png,impreso,"Trabajo de licenciatura de la autora (documento propio, uso autorizado)","delegación de firma no cuentan con firma digital, por lo cual, necesariamente deben
+imprimir los Formatos D100 y ser firmados manualmente, para luego ser escaneados.
+De dichas municipalidades, 94 no cuentan con impresoras multifuncionales, lo cual
+facilitaría la impresión y escaneo de los Formatos D100. Como se observa en la Tabla
+6, casi todos son municipalidades de categoría E, F y G, es decir, ciudades que no
+son consideradas principales.
+Por otro lado, para el envío de los Formatos D100 firmados manualmente, se
+requiere acceso a internet, ya que, si bien las ULE podrían enviarlo por mensajería,
+esto demanda un presupuesto adicional, así como toma más tiempo para su atención.
+Tabla 7
+Acceso a internet
+ENED
+Clasificación de
+Cantidad de municipalidades
+ET LUX
+municipalidades
+que no cuenta con servicio
+de internet
+ABC
+0
+0
+LUCET
+0 0 14
+D E F
+22
+G
+13
+Total
+49
+Adaptado del INEl (2024)","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,894,0.963
+doc_009,datos/raw/documentos/doc_009.jpg,foto,"SERVIR, Estudio de Gobiernos Locales 2016 (fotos propias de la publicación impresa)","Ingresos de las personas al servicio de los Gobiernos Locales
+son las que están contratadas por proyectos de inversión
+(ingreso mensual promedio de S/ 1,939) seguidas por las
+contratadas bajo el D. Leg. 276 (S/ 1,923). Luego, con una
+brecha de aproximadamente S/ 600, están las personas
+contratadas por Locación de servicios (S/ 1,338). Los
+ingresos promedio más bajos corresponden a las
+Este capitulo brinda información referente a los ingresos²
+personas contratadas bajo CAS y D. Leg. 728 (S/ 1,293 y
+de las personas al servicio de los gobiernos locales. Se
+S/1,263, respectivamente).
+muestra información como el ingreso mensual bruto
+minimo, máximo y promedio, desagregado por tipo de
+El ingreso mediano registra valores cercanos y menores
+modalidad de contratación, por la naturaleza de los
+al promedio para todos los regimenes con excepción de
+órganos y por el sexo de los ocupantes.
+las personas contratadas por Proyectos de inversión, con
+una diferencia que va de S/ 23 a S/ 240
+El ingreso mensual bruto promedio³ de las personas al
+aproximadamente. La menor diferencia se observa bajo
+servicio de los gobiernos locales es de S/ 1,513 (con un
+el D. Leg. 276 (S/ 23), lo que refleja que el promedio es
+minimo S/ 850 y un máximo S/ 7,000). Adicionalmente, el
+un valor representativo del ingreso en dicha modalidad.
+ingreso bruto mediano es de S/ 1,2004, lo cual implica que
+En el caso del D. Leg. 728, CAS y Locación de servicios,
+la mitad de las personas que participaron del estudio
+el ingreso mediano es de S/ 1,100. En el caso de los
+perciben menos de S/ 1,200 y la otra mitad gana por
+Proyectos de inversión, hay una diferencia mucho mayor
+encima de dicho valor. Por lo tanto, ya que el ingreso
+entre el mediano y el promedio (de S/ 650), lo que se
+promedio es mayor que el mediano, hay un grupo
+deberia a una minoría de personas con ingresos
+minoritario de personas (4%) cuyos ingresos son
+elevados en dicha modalidad de contratación, que
+significativamente más elevados que los de la mayoría
+incrementa el promedio.
+(entre S/ 3,000 y S/ 7,000), lo que genera que el promedio
+se incremente.
+Al diferenciar entre modalidades de contratación (ver
+Gráfico 6), se observa que las personas mejor pagadas
+* Para efectos del análisis, se ha considerado el ingreso bruto total mensual, el que incluye los conceptos remunerativos y no remunerativos seg
+SERVIR | Estudio de Gobiernos Locales - 20
+distintas modalidades de contratación.
+Para el reporte de las estadisticas, se tomó en cuenta las personas con ingresos mayores o iguales a S/ 850, por lo que las personas con in
+menores a dicho monto no fueron consideradas (ellas representan el 20.7% del total de personas del estudio). Para ello, ver sección 6 (Pers
+Ibidem.","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación desactivada, detección máx. 1600 px)",,2724,0.994
+doc_010,datos/raw/documentos/doc_010.jpg,foto,"SERVIR, Estudio de Gobiernos Locales 2016 (fotos propias de la publicación impresa)","personas con ingresos menores a dicho monto no fueror
+7 % det notat de personas del estudio)
+Fuente: SERVIR - Estudio de Gobiemos Locales, 2016
+Elaboración: SERVIR - GPGSC
+Además, se observa que el ingreso mediano también es
+El ingreso promedio, al ser analizado por naturaleza del
+cercano y menor al promedio, con rangos de diferencia
+órgano, varia, habiéndose identificado que los órganos
+entre S/ 140 y S/ 280 para las personas bajo al D Leg
+de administración interna reportan el monto más alto
+728, CAS y Locación de servicios. En estas modalidades
+(S/ 1,713), seguidos por los otros 6rganos (S/ 1,593) y
+de contratación, el ingreso mediano oscila entre S/ 1.000
+al final por los organos de linea (S/ 1,435).
+y S/ 1,100. Para las personas bajo el D. Leg. 276, la
+En los órganos de Linea, las personas bajo el D. Leg.
+diferencia entre ingreso promedio y mediano es minima
+(inferior a S/ 10), lo que refleja que el promedio es un
+276 son las mejor pagadas, con un ingreso promedio de
+valor representativo del ingreso en dicha modalidad. En
+S/ 1.892. Por su parte, las personas bajo el D. Leg. 728,
+el caso de Proyectos de inversión, la diferancia se
+CAS y Locación de servicios tienen un ingreso promedio
+amplia a S/ 340, lo que se justificaria por una minoria de
+que oscila entre S/ 1,200 y S/ 1,300. En cuanto al monto
+personas con ingresos elevados en dicha modalidad de
+máximo, en el D. Leg. 276, CAS y Locación de servicios,
+contratación, lo que incrementa el monto del promedio.
+los ingresos alcanzan un máximo de S/ 6,000, mientras
+que en el caso del D. Leg. 728, este monto solo alcanza
+a S/ 2.713 (ver Gráfico 7).
+SERVIR  Estudio de Gobiemos Locales - 2016","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,1667,0.984
+doc_011,datos/raw/documentos/doc_011.jpg,foto,"SERVIR, Estudio de Gobiernos Locales 2016 (fotos propias de la publicación impresa)","personas co
+Fuente: SERVIR - Estudio de Gobiernos Locales, 2016
+Elaboración: SERVIR - GPGSC
+diferencia se amplia en CAs y Locación de servicios,
+En el caso de los órganos de Administración interna (ver
+oscilando en un rango de S/ 250 a S/ 300, y, para estos
+Gráfico 8), las personas bajo el D. Leg. 276 son las mejor
+casos, el valor mediano es aproximadamente de S/ 1,200.
+pagadas con un ingreso promedio de S/ 1,933, siendo solo
+Por otro lado, las personas contratadas por Proyectos de
+superados por las personas contratadas por Proyectos de
+inversión reportan una diferencia mayor, en este caso de
+inversión que perciben, en promedio, S/ 5,143. Por otro
+S/ 640, pero a favor del ingreso mediano.
+lado, los ingresos bajo el D. Leg. 728, CAS y Locación de
+servicios oscilan entre S/ 1,470 y S/ 1,600, en promedio.
+Además, las personas que trabajan en estos órganos
+cuentan con ingresos superiores a las de los órganos de
+Se observa, también, que el ingreso mediano reporta un
+Linea. La mayor brecha se presenta bajo el D. Leg. 728,
+valor cercano y menor al promedio. En los D. Leg. 276 y
+quienes perciben, en promedio, 28% más que los órganos
+728. la diferencia va entre S/ 30 y S/ 70 en favor del
+de Linea, seguida de CAS y Locación de servicios, con
+promedio, lo que refleja que el promedio es un valor
+diferencias de 19% y 17%, respectivamente.
+representativo del ingreso para dichas modalidades. Esta
+20
+SERVIR | Estudio de Gobiernos Locales - 2016","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,1452,0.992
+doc_012,datos/raw/documentos/doc_012.jpg,foto,"SERVIR, Estudio de Gobiernos Locales 2016 (fotos propias de la publicación impresa)","Gráfico 8:
+Ingreso mensual bruto mínimo, máximo, promedio y mediano por modalidad de
+contratación de las personas en los GL en órganos de Administración interna
+(en S/)
+6,691
+5,787 
+5,293
+5,000
+5,143
+4,700
+Máximo
+Promedio
+Mediano
+Minimo
+1,933
+2,051
+1,900
+1,594
+1,525
+1,477
+1,494
+1,299
+1,223
+1,200
+923
+850
+850
+850
+D. Leg.276
+D.Leg.728
+CAS
+Locación de
+Personal por
+servicios
+proyectos de inversión
+Nota: Para el reporte de las estadisticas, se tomó en cuenta las personas con ingresos mayores o iguales a S/ 850, por lo que las
+personas con ingresos menores a dicho monto no fueron consideradas (ellas representan el 20.7% del total de personas del estudio).
+Fuente: SERVIR - Estudio de Gobiernos Locales, 2016
+Elaboración: SERVIR - GPGSC
+En los ""Otros órganos"", las personas bajo el D. Leg.
+También, en esta agrupación, el ingreso mediano registra
+276 perciben los ingresos más elevados respecto de
+un valor cercano y menor al promedio, con una diferencia
+los otros tipos de órgano. Estas reciben, en promedio,
+que oscila entre S/ 30 y S/ 200. En el caso del D. Leg. 728.
+S/ 2,167 que es 12% más que el ingreso en
+la diferencia solo es de S/ 30, por lo que el promedio es un
+Administración interna y 15% más que órganos de
+valor representativo del ingreso para dicha modalidad.
+Linea. Además, se encuentra una mayor brecha en los
+ingresos promedios entre modalidades de contratación.
+Por otro lado, se observa que los montos máximos varian,
+Por ejemplo, las personas bajo el D. Leg. 276 reciben,
+pues bajo el D. Leg. 728 este es de S/ 2,351, mientras que
+en promedio, S/ 1,000 más que las que están bajo
+las personas CAS registran un ingreso promedio de hasta
+régimen CAS (ver Gráfico 9).
+S/7,000.
+SERVIR | Estudio de Gobiernos Locales - 2016 21","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,1744,0.994
+doc_013,datos/raw/documentos/doc_013.jpg,foto,"SERVIR, Estudio de Gobiernos Locales 2016 (fotos propias de la publicación impresa)","Gráfico 9:
+(en S/)
+7,000
+5,500
+contratación de las personas en los GL en Otros órganos
+Máximo
+Ingreso mensual bruto minimo, máximo, promedio y mediano por modalidad de
+Promedio
+Mediano
+Minimo
+6,162
+1,409
+900
+1,200
+1,275
+2,351
+850
+Locación de
+1,000
+1,593
+servicios
+2,167
+1,000
+1,563-
+CAS
+2,043
+862
+D.Leg.728
+D. Leg. 276
+de los hombres. Al realizar la comparación por modalidad
+Nota: Para el reporte de las estadisticas, se tomó en cuenta las personas con ingresos mayores o iguales a S/ 850, por lo que las
+de contratación (ver Gráfico 10), la diferencia se acentúa
+personas con ingresos menores a dicho monto no fueron consideradas (ellas representan el 20.7% del total de personas del estudio).
+para las personas contratadas por Proyectos de inversión,
+Fuente: SERVIR - Estudio de Gobiernos Locales, 2016
+pasando a ser de 47%. En el caso de las personas bajo el
+Elaboración: SERVIR - GPGSC
+D. Leg. 276, CAS y Locación de servicios, la brecha en
+favor de los hombres oscila entre 9% y 16% y se observa
+la diferencia más baja para el D. Leg. 728 (3%).
+De acuerdo con los Gráficos 7 al 9, se observa que, en
+promedio, las personas bajo el D. Leg. 276 son mejor
+pagadas en Otros órganos, mientras que las personas
+bajo las demás modalidades de contratación son las
+mejor pagadas en los órganos de Administración interna.
+En cuanto a los ingresos, según sexo, existe una brecha
+en el ingreso mensual bruto promedio de 17.8%s en favor
+SERVIR | Estudio de Gobiernos Lo
+romedio, se tomó en cuenta las personas con ingresos mayores o iguales a S/ 850, por lo que, las personas con
+sideradas (ellas representan el 20.7% del total de personas del estudio). Además, para el cálculo de la 
+ntrevistados.","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,1691,0.994
+doc_014,datos/raw/documentos/doc_014.jpg,foto,"SERVIR, Estudio de Gobiernos Locales 2016 (fotos propias de la publicación impresa)","Gráfico 10:
+Brecha del ingreso mensual bruto promedio entre hombres y mujeres
+(porcentaje)
+47%
+16%
+14%
+9%
+3%
+D. Leg. 276
+D. Leg.728
+CAS
+Locación de
+Personal por
+servicios
+proyectos de inversión
+Nota: Para el reporte de las estadisticas, se tomó en cuenta las personas con ingresos mayores o iguales a S/ 850. por lo que las
+personas con ingresos menores a dicho monto no fueron consideradas (ellas representan el 20.7% del total de personas del estudio).
+Además, para el cálculo de la brecha de ingresos solo se consideró a los ocupantes entrevistados
+Fuente: SERVIR - Estudio de Gobiernos Locales, 2016
+Elaboración: SERVIR - GPGSC
+Al evaluar la brecha en el ingreso hombre-mujer por
+Locación de servicios (16%), seguida de CAS (14%). En
+este grupo de órganos, además, se observa que la brecha
+naturaleza de órgano, en los órganos de Línea se observa
+es mínima en el D. Leg. 276, al ser de 1% (ver Gráfico 11).
+mayor diferencia en las personas contratadas por
+Gráfico 11:
+Brecha del ingreso mensual bruto promedio entre hombres y mujeres en los órganos de Linea
+(porcentaje)
+16%
+14%
+8%
+8%
+1%
+D.Leg.728
+CAS
+Locación de
+Personal por
+D. Leg.276
+servicios
+proyectos de inversión
+Nota: Para el reporte de las estadisticas, se tomó en cuenta las personas con ingresos mayores o iguales a S/ 850, por lo que las personas con
+ingresos menores a dicho monto no fueron consideradas (ellas representan el 20.7% del total de personas del estudio). Además, para el cálculo
+de la brecha de ingresos solo se consideró a los ocupantes entrevistados.
+Fuente: SERVIR - Estudio de Gobiernos Locales, 2016
+Elaboración: SERVIR - GPGSC
+En el caso de los órganos de Administración interna, las
+favor de los hombres y la diferencia para el D. Leg. 276
+personas contratadas por Proyectos de inversión (47%)
+se acentúa (pasa a ser 17%). Solo bajo el D. Leg. 728 la
+reportan la mayor brecha. En las demás modalidades de
+brecha es favorable para la mujer en un 3% (ver Gráfico
+contratación, la diferencia oscila entre 16% y 18% en
+12).
+SERVIR | Estudio de Gobiernos Locales - 2016
+23","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,2055,0.995
+doc_015,datos/raw/documentos/doc_015.jpg,foto,"SERVIR, Estudio de Gobiernos Locales 2016 (fotos propias de la publicación impresa)","Gráfico 12:
+47%
+Administración interna
+(porcentaje)
+Brecha del ingreso mensual bruto promedio entre hombres y mujeres en los órganos de
+16%
+18%
+17%
+Personal por
+proyectos de inversión
+Locación de
+servicios
+CAS
+-3%
+D. Leg. 728
+D. Leg. 276
+Nota: Para el reporte de las estadisticas, se tomó en cuenta las personas con ingresos mayores o iguales a S/ 850, por lo que las
+personas con ingresos menores a dicho monto no fueron consideradas (ellas representan el 20.7% del total de personas del estudio).
+Además, para el cálculo de la brecha de ingresos solo se consideró a los ocupantes entrevistados.
+y CAS (21%). Solo en el caso de las personas bajo el D.
+Fuente: SERVIR - Estudio de Gobiernos Locales, 2016
+Leg. 728 la brecha se invierte en favor de las mujeres en
+Elaboración: SERVIR - GPGSC
+un 23% (ver Gráfico 13).
+Finalmente, en los puestos de Otros órganos, se observa
+Gráfico 13:
+43%
+una mayor diferencia en el ingreso por sexo. Las
+personas por Locación de servicios registran una brecha
+(porcentaje)
+de 43%, seguida de las personas bajo D. Leg. 276 (38%)
+Brecha del ingreso mensual bruto promedio entre hombres y mujeres en los Otros órganos
+38%
+21%
+Locación de
+servicios
+CAS
+-23%
+D. Leg. 728
+D. Leg.276
+Nota: Para el reporte de las estadisticas, se tomó en cuenta las personas con ingresos mayores o iguales a S/850, por lo que las personas
+con ingresos menores a dicho monto no fueron consideradas (ellas representan el 20.7% del total de personas del estudio). Además, para
+el cálculo de la brecha de ingresos solo se consideró a los ocupantes entrevistados.
+SERVIR | Estudio de Gobiernos Locales-
+Fuente: SERVIR - Estudio de Gobiernos Locales, 2016
+Elaboración: SERVIR - GPGSC","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,1686,0.994
+doc_016,datos/raw/documentos/doc_016.jpg,foto,"SERVIR, Estudio de Gobiernos Locales 2016 (fotos propias de la publicación impresa)","Caracterización de las personas al servicio de los Gobiernos Locales
+5
+en cuanto a su edad, formación y experiencia
+El presente capitulo detalla caracteristicas más
+mayoria de hombres está en el rango de edad de 30 a 44
+años (41%) seguido del rango de 45 a 64 años (38%). En
+especificas del perfil de las personas que ocupan los
+el caso de las mujeres, estas también registran un mayor
+puestos de gobiernos locales, tales como: edad,
+formación académica y experiencia laboral; y se realizó
+porcentaje en el rango de 30 a 44 años (40%), seguido de
+un análisis según sexo y/o la naturaleza del órgano al que
+aquellas del rango de 45 a 64 años (31%).
+pertenecen los puestos que ocupan.
+Solo el 5% de los hombres y el 2% de las mujeres se
+Las personas, en su mayoria (41%), se ubican en el rango
+encuentran en el rango de los 65 años a más (personas
+de edad de 30 a 44 años, seguidas del rango de 45 a 64
+en edad de jubilación). Además, se observa que existe
+años (36%), Al observar la distribución de edades por
+una mayor presencia de mujeres jóvenes (18 a 29 años)
+sexo (ver Gráfico 14), se identifica que ambos sexos
+en comparación con los hombres en dicho rango de edad
+tienen su mayor población entre los 30 y 64 años. La
+(27% vs. 16%, respectivamente).
+Gráfico 14:
+Participación de personas en GL por sexo, según edad
+(porcentaje)
+Hombres
+Mujeres
+De 65 a más
+De 65 a màs
+años
+De 18 a 29
+De 18 a 29
+años
+5%
+años
+años
+2%
+16%
+27%
+De 30 a 44
+años
+De 30 a 44
+De 45 a 64
+41%
+De 45 a 64
+años
+aflos
+40%
+años
+38%
+31%
+Nota: Datos obtenidos do 6,226 personas al servicio de los Gobiemos Locales que informaron sobre su fecha de nacimiento y datos personales.
+Fuente: BERViR - Estodio de Gobiermos Locales, 2016
+Elaboración: SERVIR- GPGSC
+* Dstos obtenidios de las 6,226 personas en gobiemos locales que informaron su fecha de nacimiento.
+SERVIR / Estudio de Gobiernos Locales - 2016","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,1873,0.989
+doc_017,datos/raw/documentos/doc_017.jpg,manuscrito,"Apuntes de clase de la autora (documento propio, uso autorizado)","Clase1:
+→ Experinento aleatorio
+ferm
+-→ e pacio mustral
+-→ evento aleatorio
+-> Probabilidad. condicional
+2da
+-> teorema de la probabilided todel
+3 feorema do Bayes e independncia
+do events
+Eyperiment aleatorio (E)
+() operacion /accion→ Fesu/tado
+no predecible
+() bajo cientos condicions
+L5 Resultade contenides en
+un espacio mueotial.(Ω)
+Se puece earablecer un modele
+mate ma tico asaiade al 
+sevora 20+ resultads
+26
+repite misnay condi cions","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,442,0.923
+doc_018,datos/raw/documentos/doc_018.jpg,manuscrito,"Apuntes de clase de la autora (documento propio, uso autorizado)","JUEVE
+Espalio mus tral (2)
+L resutace dean(E)
+9 am
+us Pueden ser:
+lan zar mon
+Voo
+10 am
+Pinito  L) Espacios mootrales. finit
+humeradle.
+) Espacio mesirals infinixo
+* lamer ung C- L) nomerals → so asocia a
+meneda hade
+un#naturd
+L) no numerabls
+discret
+obtener.
+Cana.
+2 pm
+ no s posible asaierb
+onnatural
+declients
+nasta que
+ caitinuo.
+Unosaste
+Medir tiemp:
++ do cwosds
+que tarda elbus.
+en llegor al parader
+6 pm
+15.20,10.40,13:20","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,428,0.918
+doc_019,datos/raw/documentos/doc_019.jpg,manuscrito,"Apuntes de clase de la autora (documento propio, uso autorizado)","MARTE29
+11011=22+(-3)2+12
+1111=√4+9+1=√44
+11011=3.742
+1111=√12+42+（—2）2）
+N1=√1+16+4=√21
+1111=4.583
+2x-30=-2W
+2x=√-2W+30
+x=（-2w+3√）
+2
+=
+((1,4,-2)-(-6,0,10)+(6,—9,3))
+2
+x=1
+(13,-5,-9)
+2
+=(6.5,-2.5,-4.5)","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,200,0.921
+doc_020,datos/raw/documentos/doc_020.jpg,manuscrito,"Apuntes de clase de la autora (documento propio, uso autorizado)","MIERCOLES
+2×-3(2,-3,1)=(1,4-2)--
+8.am
+21-2,10,5).
+9 am
+2x-(6,9,1)=(1,4,2)-(6,0,10)
+10 am
+11 am
+2x=(1,4,2)-(6,0,10)+(6,9,1)
+12 pm
+2x=(7,4,-8)+(6,-9,1)
+1 pm
+2x=(13,-5,-7).
+2 pm
+x=(6+s)-25,-3.5)
+3 pm
+2x-30=-2W
+4pm
+2x=-2W+3
+5m
+=-2#+30
+6 pm
+7 pm
+2.
+x=(1,4,-2)-(-6,0,10)+(6,9,3)
+2
+x=(13)-5,-9)
+NOTAS
+2.
+26
+x=(6.5,-2.5,-4.5)","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,317,0.953
+doc_021,datos/raw/documentos/doc_021.jpg,manuscrito,"Apuntes de clase de la autora (documento propio, uso autorizado)","j.J
+731
+x.W
+=（2，-3，4）×（1，4，-2）
+0x=(2,—12,—2)1
+x.W=(6,5,-2.5,-4-5)x(-3,0,5)
+12 pm
+x.W=(19.5,0,-22.5)
+2 pm
+x√=(2,-3,1)x(1,4,—2)
+3 pm
+Ux=2x1+(-3)x4+1×(—2)
+4pm
+Ux=2-12-2
+5 pm
+0x√=-12
+6 pm
+xxW=(6.5,-2.5,—4.5)x(-3,0,5)
+7 pm
+x=6.5×(-3）+(-2.5)×0+(-4.5)×5
+=(-19.5)+0+(-22.5)
+xW=-42
+2","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,274,0.834
+doc_022,datos/raw/documentos/doc_022.jpg,manuscrito,"Apuntes de clase de la autora (documento propio, uso autorizado)","Variabds aleatiro discrete
+JUEVES
+15
+)funcronde
+prebabilidag
+9 am
+tade receitos
+() funcion dp probab.
+10 am
+acumulade.
+havarialey
+Dualor esperado
+elranso
+11 am
+L)varionza
+12 pm
+① funaendb madb(P)
+so va asismor t na pry ailided
+2 pm
+a cada elamente del raugo
+3 pm
+P(x=x1)=Fcx1)
+4pm
+5 pm
+2) deber stew 0≤x≤1
+6 pm
+22 depresobilided =1
+7 pm
+esmple
+is estudrents amujs 8couss,
+8 pm
+un equ ipe de 2..
+VA = Nodo mijers intesauls equio
+ranso=20,1,23
+11
+P(x=0)=6/15×5/14=0,1429)
+18
+P(x=1)=6/15×9/14+9/15×6/14=0.5193
+P(x2)=9/15×8/14=0.3429","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,529,0.935
+doc_023,datos/raw/documentos/doc_023.jpg,manuscrito,"Apuntes de clase de la autora (documento propio, uso autorizado)","- Para mantener fresca la arcilla
+homedeler y forrar con 2.
+bolsas.
+cruda
+Para humeclecer avcilla
+Cortor por plalas, humedecer
+cada plala,juntar
+y amasar.
+Cortar 45° las esquinas doune
+preza cuadsade para que encaje
+perfecto.
+Usar dos palos dolmismo
+gresor para tener una laimina
+Pareja.
+L Hernamienta: guitalle
+Tombien sirve.","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,326,0.954
+doc_024,datos/raw/documentos/doc_024.jpg,manuscrito,"Apuntes de clase de la autora (documento propio, uso autorizado)","Proceso de elaberacion
+- Rlealicer la pieza-eobozar
+- Degor secar un poco (horas)
+Y mariar les dotalles.
+→ Dejar secar un par do dig
+in pala que emita on sonido
+diferente (coisante) pintar
+punto do
+encrudo
+Cuero cuando yo
+sotaseco
+2
+①
+- horneado en /bisiocho(gera)
+- En esa etapa, pintar (pismenlet
+es malte)
+-Volverhornearsa
+* 1 horneada (ensobellewmalle)
+Monolocion
+* ensobe - sin e malte.
+=11=11=11=11=11=11=11=11=11=4=","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,422,0.893
+doc_025,datos/raw/documentos/doc_025.jpg,manuscrito,"Apuntes de clase de la autora (documento propio, uso autorizado)","* luando haya huelo
+Ilenarlo con yese
+(con pincel) culdadosameute
+11=11=4=14=11=11=11=11=11=11=1=11=
+- En monococcion, corres el riesso do
+que se quiebre la pieza si tieno ong
+ragadura.
+- El comalte trans parente resalta el
+verde.
+- Verde lechosa -gamavillo-fverde","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,264,0.951
