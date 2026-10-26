@@ -1,0 +1,21 @@
+id,modalidad,correcta,comentario
+doc_009,documento,1,"se transcribió bien, aunque desordenado. Pero sí aplicó un bien resumen"
+doc_017,documento,1,"hubo errores en OCR, pero sí aplicó bien el resumen"
+doc_001,documento,1,Excelente OCR y resumen
+doc_024,documento,1,"hubo errores en OCR, pero sí aplicó bien el resumen"
+doc_012,documento,1,"se transcribió bien, aunque desordenado. Pero sí aplicó un bien resumen"
+doc_010,documento,1,"se transcribió bien, aunque desordenado. Pero sí aplicó un bien resumen"
+doc_014,documento,1,"se transcribió bien, aunque desordenado. Pero sí aplicó un bien resumen"
+doc_002,documento,1,Excelente OCR y resumen
+doc_023,documento,1,"hubo errores en OCR, pero sí aplicó bien el resumen"
+doc_006,documento,1,Excelente OCR y resumen
+clip_009,audio,0,"El resumen habla del campo 'responsable asignado': interpretó mal 'a Zaire' (en el audio, el aplicativo ASAI), un error que viene del ASR"
+clip_017,audio,1,Errores previos de la diarización (hablantes repartidos en 4 marcas) y del ASR ('la vela' por Falabella); pero el resumen fue preciso
+clip_001,audio,1,"Buena transcripción, buen resumen identificó bien los hablantes"
+clip_025,audio,1,"excelente resumen e identificó bien a los hablantes, pese a que una intervino muy poco, la consideró"
+clip_012,audio,1,excelente resumen e identificó bien a los hablantes
+clip_010,audio,1,excelente resumen e identificó bien a los hablantes
+clip_014,audio,1,"se inventó textos, pero referente al resumen, citas clave y número de hablates, está ok"
+clip_002,audio,1,"buena transcripción, citas y hablantes, buen resumen"
+clip_024,audio,1,excelente resumen e identificó bien el numero de hablantes y citas claves
+clip_006,audio,1,excelente resumen e identificó bien el numero de hablantes y citas claves

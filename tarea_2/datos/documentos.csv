@@ -34,7 +34,19 @@ con los criterios, se procede a observar el Formato D100 y se remite a la ULE un
 correo con el detalle de la observación. Este proceso ha sido mi principal actividad en
 la DO, lo cual me ha permitido coordinar con las ULE y CT. Además, he participado
 en otras actividades como atención al ciudadano a través de llamadas, correo y
-documentos administrativos.","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,855,0.996
+documentos administrativos.","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)","documentos administrativos, correos y llamadas telefónicas. En caso se requiera
+alguna información de la ULE para atender una consulta, es frecuente solicitar el
+apoyo del CT.
+Asimismo, dicha coordinación se encargada de evaluar los Formatos D100
+remitidos por la ULE6
+, bajo los criterios indicados en el numeral 6.1.3 de la Directiva.
+En caso cumpla con los criterios, se procesa conforme el Formato D100 en el
+aplicativo de la DO, a través del cual se calcula la CSE del hogar. En caso no cumpla
+con los criterios, se procede a observar el Formato D100 y se remite a la ULE un
+correo con el detalle de la observación. Este proceso ha sido mi principal actividad en
+la DO, lo cual me ha permitido coordinar con las ULE y CT. Además, he participado
+en otras actividades como atención al ciudadano a través de llamadas, correo y
+documentos administrativos.",855,0.996
 doc_003,datos/raw/documentos/doc_003.png,impreso,"Trabajo de licenciatura de la autora (documento propio, uso autorizado)","considerando que se ha digitalizado varias actividades, como la capacitación a las
 ULE y parte del proceso de la determinación de la CSE.
 Asimismo, el gobiemo local debe garantizar la acreditación del responsable de
@@ -94,7 +106,20 @@ tiene las ULE sobre los aplicativos proporcionados por la DO, los cuales fueron
 canalizados a sus CT y el área de procesamiento.En esa línea, parte de mi trabajo
 también es proponer cambio en los aplicativos relacionado a la evaluación de
 Formatos D100, con la finalidad de simplificar, en lo posible, el proceso de atención
-de las solicitudes de CSE","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,1027,0.992
+de las solicitudes de CSE","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)","Para el seguimiento de la subsanación de los Formatos D100 observados, requería
+que coordine con las ULE a través de correo y teléfono; lo cual, me permitió conocer
+las limitaciones que pueden presentan, como las dificultad para volver a enviar los
+Formatos D100 por no contar con internet o luz temporalmente, o que el alcalde no
+pueda suscribir los Formatos D100 por algún evento extraordinario (problemas de
+salud o prisión preventiva por ejemplo), y aunque la Ley Orgánica de las
+Municipalidades tiene procedimiento establecidos para dichas situaciones, hay
+municipalidades que no lo conocen.
+Además, en dichas coordinaciones he tomado conocimiento de las dificultados que
+tiene las ULE sobre los aplicativos proporcionados por la DO, los cuales fueron
+canalizados a sus CT y el área de procesamiento. En esa línea, parte de mi trabajo
+también es proponer cambio en los aplicativos relacionado a la evaluación de
+Formatos D100, con la finalidad de simplificar, en lo posible, el proceso de atención
+de las solicitudes de CSE.",1027,0.992
 doc_006,datos/raw/documentos/doc_006.png,impreso,"Trabajo de licenciatura de la autora (documento propio, uso autorizado)","2.2.3. Apovo en el proceso de determinación de la CSE
 En mi primer año en la DO, fui parte de un proyecto que consistió en empadronar
 una lista de hogares en 10 distritos de Lima Metropolitana, con empadronadores
@@ -132,7 +157,23 @@ lineamentos indicados en la Directiva, sin embargo, funcionalmente depende del
 gobierno local de turno (Calderón & Guerrero, 2016, p. 76); es decir, el presupuesto,
 el personal contratado, el espacio asignado para atender a los ciudadanos y el
 mobiliario brindado depende de la gestión de turno, lo cual influye directamente en el
-desempeño de la ULE.","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,1186,0.992
+desempeño de la ULE.","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)","3.1. Limitaciones en el trabajo intersectorial
+Los integrantes del SISFOH se encuentran en diversos niveles del Estado, como
+lo son los Ministerios, sus órganos de línea, los programas sociales y los gobiernos
+locales. Pero, además, requiere información de otras instituciones para para
+determinar la CSE, como lo son SUSALUD, SUNARP, SUNAT, MEF y
+OSINERGMING. Es decir, se requiere un trabajo articulado de varias instituciones
+para cumplir con el objetivo final: la intervención eficiente del Estado en los hogares
+pobres y pobres extremos del país.
+Sin embargo, de acuerdo con la bibliografía revisada, y mi experiencia laboral, se
+han identificado ciertas limitaciones que aún sigue siendo un desafío para el SISFOH.
+3.1.1. Dependencia funcional de la ULE
+Las ULE son el brazo operativo del SISFOH (MIDIS, 2017), y debe seguir los
+lineamentos indicados en la Directiva, sin embargo, funcionalmente depende del
+gobierno local de turno (Calderón & Guerrero, 2016, p. 76); es decir, el presupuesto,
+el personal contratado, el espacio asignado para atender a los ciudadanos y el
+mobiliario brindado depende de la gestión de turno, lo cual influye directamente en el
+desempeño de la ULE. ",1186,0.992
 doc_008,datos/raw/documentos/doc_008.png,impreso,"Trabajo de licenciatura de la autora (documento propio, uso autorizado)","delegación de firma no cuentan con firma digital, por lo cual, necesariamente deben
 imprimir los Formatos D100 y ser firmados manualmente, para luego ser escaneados.
 De dichas municipalidades, 94 no cuentan con impresoras multifuncionales, lo cual
@@ -211,7 +252,58 @@ SERVIR | Estudio de Gobiernos Locales - 20
 distintas modalidades de contratación.
 Para el reporte de las estadisticas, se tomó en cuenta las personas con ingresos mayores o iguales a S/ 850, por lo que las personas con in
 menores a dicho monto no fueron consideradas (ellas representan el 20.7% del total de personas del estudio). Para ello, ver sección 6 (Pers
-Ibidem.","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación desactivada, detección máx. 1600 px)",,2724,0.994
+Ibidem.","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación desactivada, detección máx. 1600 px)","4  Ingresos de las personas al servicio de los Gobiernos Locales
+
+Este capítulo brinda información referente a los ingresos²
+de las personas al servicio de los gobiernos locales. Se
+muestra información como el ingreso mensual bruto
+mínimo, máximo y promedio, desagregado por tipo de
+modalidad de contratación, por la naturaleza de los
+órganos y por el sexo de los ocupantes.
+El ingreso mensual bruto promedio³ de las personas al
+servicio de los gobiernos locales es de S/ 1,513 (con un
+mínimo S/ 850 y un máximo S/ 7,000). Adicionalmente, el
+ingreso bruto mediano es de S/ 1,200⁴, lo cual implica que
+la mitad de las personas que participaron del estudio
+perciben menos de S/ 1,200 y la otra mitad gana por
+encima de dicho valor. Por lo tanto, ya que el ingreso
+promedio es mayor que el mediano, hay un grupo
+minoritario de personas (4%) cuyos ingresos son
+significativamente más elevados que los de la mayoría
+(entre S/ 3,000 y S/ 7,000), lo que genera que el promedio
+se incremente.
+Al diferenciar entre modalidades de contratación (ver
+Gráfico 6), se observa que las personas mejor pagadas
+son las que están contratadas por proyectos de inversión
+(ingreso mensual promedio de S/ 1,939) seguidas por las
+contratadas bajo el D. Leg. 276 (S/ 1,923). Luego, con una
+brecha de aproximadamente S/ 600, están las personas
+contratadas por Locación de servicios (S/ 1,338). Los
+ingresos promedio más bajos corresponden a las
+personas contratadas bajo CAS y D. Leg. 728 (S/ 1,293 y
+S/ 1,263, respectivamente).
+El ingreso mediano registra valores cercanos y menores
+al promedio para todos los regímenes con excepción de
+las personas contratadas por Proyectos de inversión, con
+una diferencia que va de S/ 23 a S/ 240
+aproximadamente. La menor diferencia se observa bajo
+el D. Leg. 276 (S/ 23), lo que refleja que el promedio es
+un valor representativo del ingreso en dicha modalidad.
+En el caso del D. Leg. 728, CAS y Locación de servicios,
+el ingreso mediano es de S/ 1,100. En el caso de los
+Proyectos de inversión, hay una diferencia mucho mayor
+entre el mediano y el promedio (de S/ 650), lo que se
+debería a una minoría de personas con ingresos
+elevados en dicha modalidad de contratación, que
+incrementa el promedio.
+
+² Para efectos del análisis, se ha considerado el ingreso bruto total mensual, el que incluye los conceptos remunerativos y no remunerativos según las
+distintas modalidades de contratación.
+³ Para el reporte de las estadísticas, se tomó en cuenta las personas con ingresos mayores o iguales a S/ 850, por lo que las personas con ingresos
+menores a dicho monto no fueron consideradas (ellas representan el 20.7% del total de personas del estudio). Para ello, ver sección 6 (Personas al
+servicio de los Gobiernos Locales que reciben un ingreso bruto promedio menor a S/ 850) con información sobre este grupo de ocupantes.
+⁴ Ibidem.
+",2724,0.994
 doc_010,datos/raw/documentos/doc_010.jpg,foto,"SERVIR, Estudio de Gobiernos Locales 2016 (fotos propias de la publicación impresa)","personas con ingresos menores a dicho monto no fueror
 7 % det notat de personas del estudio)
 Fuente: SERVIR - Estudio de Gobiemos Locales, 2016
@@ -243,7 +335,36 @@ contratación, lo que incrementa el monto del promedio.
 los ingresos alcanzan un máximo de S/ 6,000, mientras
 que en el caso del D. Leg. 728, este monto solo alcanza
 a S/ 2.713 (ver Gráfico 7).
-SERVIR  Estudio de Gobiemos Locales - 2016","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,1667,0.984
+SERVIR  Estudio de Gobiemos Locales - 2016","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)","Fuente: SERVIR - Estudio de Gobiernos Locales, 2016
+Elaboración: SERVIR - GPGSC
+El ingreso promedio, al ser analizado por naturaleza del
+órgano, varía, habiéndose identificado que los órganos
+de administración interna reportan el monto más alto
+(S/ 1,713), seguidos por los otros órganos (S/ 1,593) y
+al final por los órganos de línea (S/ 1,435).
+En los órganos de Línea, las personas bajo el D. Leg.
+276 son las mejor pagadas, con un ingreso promedio de
+S/ 1,892. Por su parte, las personas bajo el D. Leg. 728,
+CAS y Locación de servicios tienen un ingreso promedio
+que oscila entre S/ 1,200 y S/ 1,300. En cuanto al monto
+máximo, en el D. Leg. 276, CAS y Locación de servicios,
+los ingresos alcanzan un máximo de S/ 6,000, mientras
+que en el caso del D. Leg. 728, este monto solo alcanza
+a S/ 2,713 (ver Gráfico 7).
+Además, se observa que el ingreso mediano también es
+cercano y menor al promedio, con rangos de diferencia
+entre S/ 140 y S/ 280 para las personas bajo el D. Leg.
+728, CAS y Locación de servicios. En estas modalidades
+de contratación, el ingreso mediano oscila entre S/ 1,000
+y S/ 1,100. Para las personas bajo el D. Leg. 276, la
+diferencia entre ingreso promedio y mediano es mínima
+(inferior a S/ 10), lo que refleja que el promedio es un
+valor representativo del ingreso en dicha modalidad. En
+el caso de Proyectos de inversión, la diferencia se
+amplía a S/ 340, lo que se justificaría por una minoría de
+personas con ingresos elevados en dicha modalidad de
+contratación, lo que incrementa el monto del promedio.
+SERVIR | Estudio de Gobiernos Locales - 2016",1667,0.984
 doc_011,datos/raw/documentos/doc_011.jpg,foto,"SERVIR, Estudio de Gobiernos Locales 2016 (fotos propias de la publicación impresa)","personas co
 Fuente: SERVIR - Estudio de Gobiernos Locales, 2016
 Elaboración: SERVIR - GPGSC
@@ -272,7 +393,33 @@ promedio, lo que refleja que el promedio es un valor
 diferencias de 19% y 17%, respectivamente.
 representativo del ingreso para dichas modalidades. Esta
 20
-SERVIR | Estudio de Gobiernos Locales - 2016","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,1452,0.992
+SERVIR | Estudio de Gobiernos Locales - 2016","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)","Fuente: SERVIR - Estudio de Gobiernos Locales, 2016
+Elaboración: SERVIR - GPGSC
+En el caso de los órganos de Administración interna (ver
+Gráfico 8), las personas bajo el D. Leg. 276 son las mejor
+pagadas con un ingreso promedio de S/ 1,933, siendo solo
+superados por las personas contratadas por Proyectos de
+inversión que perciben, en promedio, S/ 5,143. Por otro
+lado, los ingresos bajo el D. Leg. 728, CAS y Locación de
+servicios oscilan entre S/ 1,470 y S/ 1,600, en promedio.
+Se observa, también, que el ingreso mediano reporta un
+valor cercano y menor al promedio. En los D. Leg. 276 y
+728, la diferencia va entre S/ 30 y S/ 70 en favor del
+promedio, lo que refleja que el promedio es un valor
+representativo del ingreso para dichas modalidades. Esta
+diferencia se amplía en CAS y Locación de servicios,
+oscilando en un rango de S/ 250 a S/ 300, y, para estos
+casos, el valor mediano es aproximadamente de S/ 1,200.
+Por otro lado, las personas contratadas por Proyectos de
+inversión reportan una diferencia mayor, en este caso de
+S/ 640, pero a favor del ingreso mediano.
+Además, las personas que trabajan en estos órganos
+cuentan con ingresos superiores a las de los órganos de
+Línea. La mayor brecha se presenta bajo el D. Leg. 728,
+quienes perciben, en promedio, 28% más que los órganos
+de Línea, seguida de CAS y Locación de servicios, con
+diferencias de 19% y 17%, respectivamente.
+SERVIR | Estudio de Gobiernos Locales - 2016",1452,0.992
 doc_012,datos/raw/documentos/doc_012.jpg,foto,"SERVIR, Estudio de Gobiernos Locales 2016 (fotos propias de la publicación impresa)","Gráfico 8:
 Ingreso mensual bruto mínimo, máximo, promedio y mediano por modalidad de
 contratación de las personas en los GL en órganos de Administración interna
@@ -564,7 +711,26 @@ Se puece earablecer un modele
 mate ma tico asaiade al 
 sevora 20+ resultads
 26
-repite misnay condi cions","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,442,0.923
+repite misnay condi cions","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)","clase 1
+1era
+experimento aleatorio
+espacio muestral
+evento aleatorio
+
+2da
+probabilidad condicional
+teorema de la probabilidad total
+teorema de bayes e independencia de eventos
+
+experimento aleatorio (e)
+
+operacion/accion resultado no predecible
+bajo ciertas condiciones
+resultados contenidos en un espacio muestral 
+
+se puede establecer un modelo matematico asociado al (e)
+genera 2 o + resultados
+repite mismas condiciones",442,0.923
 doc_018,datos/raw/documentos/doc_018.jpg,manuscrito,"Apuntes de clase de la autora (documento propio, uso autorizado)","JUEVE
 Espalio mus tral (2)
 L resutace dean(E)
@@ -595,7 +761,19 @@ Medir tiemp:
 que tarda elbus.
 en llegor al parader
 6 pm
-15.20,10.40,13:20","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,428,0.918
+15.20,10.40,13:20","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)","espacio muestral
+resultado de un (e)
+pueden ser
+finito numerable espacios muestrales finitos lanzar moneda
+espacio muestrales infinito
+lanzar una moneda hasta obtener cara 
+numerales se asocia a un # natural discreto
+no numerables
+no es posible asociarlo a un # natural
+# de clientes hasta que uno gaste + de 100 soles
+#  continuo
+medir tiempo que tarda el bus en llegar al paradero
+15.20 10:40 13:20",428,0.918
 doc_019,datos/raw/documentos/doc_019.jpg,manuscrito,"Apuntes de clase de la autora (documento propio, uso autorizado)","MARTE29
 11011=22+(-3)2+12
 1111=√4+9+1=√44
@@ -722,7 +900,11 @@ Usar dos palos dolmismo
 gresor para tener una laimina
 Pareja.
 L Hernamienta: guitalle
-Tombien sirve.","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,326,0.954
+Tombien sirve.","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)","para mantener fresca la arcilla humedecer y forrar con 2 bolsas
+para humedecer arcilla cruda cortar por placas humedecer cada placa juntar y amasar
+cortar 45° las esquinas de una pieza cuadrada para que encaje perfecto
+usar dos palos del mismo grosor para tener una lamina pareja
+herramienta guitarra tambien sirve",326,0.954
 doc_024,datos/raw/documentos/doc_024.jpg,manuscrito,"Apuntes de clase de la autora (documento propio, uso autorizado)","Proceso de elaberacion
 - Rlealicer la pieza-eobozar
 - Degor secar un poco (horas)
@@ -753,4 +935,7 @@ que se quiebre la pieza si tieno ong
 ragadura.
 - El comalte trans parente resalta el
 verde.
-- Verde lechosa -gamavillo-fverde","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)",,264,0.951
+- Verde lechosa -gamavillo-fverde","PaddleOCR 3.7.0 (PP-OCRv6 medium, lang=es, orientación activada, detección máx. 1600 px)","cuando haya hueco llenarlo con yeso
+en monococcion corres el riesgo de que se quiebre la pieza si tiene una rajadura
+el esmalte trasparente resalta el verde
+verde lechuga 3 amarillo 1 verde",264,0.951
