@@ -1,0 +1,3 @@
+# Bases originales del RENAMU: se descargan del INEI (ver README).
+# No se publican por su peso y porque incluyen datos de contacto de alcaldes.
+datos/originales/*.dta

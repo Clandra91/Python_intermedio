@@ -1,0 +1,9 @@
+[project]
+name = "tarea-3"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "pandas>=3.1.0",
+    "plotly>=7.1.0",
+]
