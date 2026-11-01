@@ -1,14 +1,14 @@
-# Tarea 3 – Capacidades municipales y necesidad de apoyo sobre el SISFOH
+# Tarea 3 – Capacidades municipales y necesidad de apoyo (capacitación y asistencia técnica) sobre el SISFOH
 
 **Dashboard público:** https://municipalidades-sisfoh.streamlit.app/
 
-**Publicación de LinkedIn:** PENDIENTE
+**Publicación de LinkedIn:** [https://lnkd.in/p/dPuRACQp] [https://lnkd.in/p/dXKsrUek]
 
 > Análisis personal con datos públicos; no representa la posición del MIDIS.
 
 ## 1. Tema y pregunta de investigación
 
-**Tema:** las municipalidades, a través de sus Unidades Locales de Empadronamiento (ULE), son el brazo operativo del Sistema de Focalización de Hogares (SISFOH): reciben las solicitudes de Clasificación Socioeconómica (CSE), recogen la información de los hogares, la digitan y firman las declaraciones juradas. Para hacerlo bien, necesitan personal capacitado y recursos (Pérez Pardo, 2025).
+**Tema:** las municipalidades, a través de sus Unidades Locales de Empadronamiento (ULE), son el brazo operativo del Sistema de Focalización de Hogares (SISFOH): reciben las solicitudes de Clasificación Socioeconómica (CSE), recogen la información de los hogares y la digitan; además, el alcalde firma las declaraciones juradas, mediante las cuales manifiesta que el recojo y la digitación de la información se realizaron según los lineamientos de la directiva vigente del SISFOH. Para hacerlo bien, necesitan personal capacitado y recursos (Pérez Pardo, 2025).
 
 **Pregunta:** ¿Las municipalidades con menos capacidades (conectividad, equipos, personal estable) son las que más requieren capacitación y asistencia técnica sobre la operatividad del SISFOH? Perú, 2024–2026.
 
@@ -54,7 +54,9 @@ tarea_3/
 - **Índice de capacidad (0 a 3):** suma de tres componentes: (1) conexión fija a internet (Wi-Fi, ADSL/DSL o fibra óptica); (2) al menos 0,5 computadoras por trabajador; (3) al menos 50 % de personal estable (nombrados del D. Leg. 276 y personal del D. Leg. 728). Capacidad **baja** (0–1), **media** (2) o **alta** (3).
 - **Contexto:** participación en la Mesa de Concertación para la Lucha contra la Pobreza (MCLCP, `P101_4`). El número de beneficiarios del Vaso de Leche (`P60B_T_1`) se guarda en una tabla aparte para análisis futuros.
 
-El análisis es descriptivo: compara el porcentaje que requiere apoyo según el nivel de capacidad, cada componente del índice, el año y el departamento.
+El análisis es descriptivo: compara el porcentaje que requiere apoyo según el nivel de capacidad, cada componente del índice, el año y el departamento. 
+
+No se usaron datos de hogares empadronados por distrito porque no son públicos: obtenerlos requiere una solicitud de acceso a la información, con un plazo de atención de 10 días hábiles (Ministerio de Justicia y Derechos Humanos [MINJUSDH], 2019), mayor al plazo de este trabajo.
 
 ## 4. Hallazgos principales
 
@@ -80,7 +82,7 @@ El análisis es descriptivo: compara el porcentaje que requiere apoyo según el 
 ## 6. Enlaces
 
 - Dashboard: https://municipalidades-sisfoh.streamlit.app/
-- Publicación de LinkedIn (con el reel): PENDIENTE
+- Publicación de LinkedIn (con el reel): [https://lnkd.in/p/dPuRACQp] [https://lnkd.in/p/dXKsrUek]
 - Repositorio: https://github.com/Clandra91/Python_intermedio/tree/main/tarea_3
 
 ## 7. Cómo reproducir el proyecto
@@ -138,5 +140,7 @@ Instituto Nacional de Estadística e Informática. (2024). *Registro Nacional de
 Instituto Nacional de Estadística e Informática. (2025). *Registro Nacional de Municipalidades (RENAMU) 2025* [Conjunto de datos]. https://proyectos.inei.gob.pe/microdatos/
 
 Instituto Nacional de Estadística e Informática. (2026). *Registro Nacional de Municipalidades (RENAMU) 2026* [Conjunto de datos]. https://proyectos.inei.gob.pe/microdatos/
+
+Ministerio de Justicia y Derechos Humanos. (2019, 11 de diciembre). *Decreto Supremo N.° 021-2019-JUS, que aprueba el Texto Único Ordenado de la Ley N.° 27806, Ley de Transparencia y Acceso a la Información Pública*. Diario Oficial El Peruano.
 
 Pérez Pardo, C. A. (2025). *Reflexión sobre la operatividad del SISFOH en el marco de la implementación de la Directiva 001-2020-MIDIS* [Trabajo de suficiencia profesional, Pontificia Universidad Católica del Perú]. Repositorio de Tesis PUCP. http://hdl.handle.net/20.500.12404/32749
