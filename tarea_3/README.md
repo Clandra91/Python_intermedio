@@ -2,9 +2,9 @@
 
 **Dashboard público:** https://municipalidades-sisfoh.streamlit.app/
 
-**Publicación de LinkedIn:** [https://lnkd.in/p/dPuRACQp] [https://lnkd.in/p/dXKsrUek]
+**Publicación de LinkedIn:** [Reel](https://lnkd.in/p/dPuRACQp) · [Capturas del dashboard](https://lnkd.in/p/dXKsrUek)
 
-> Análisis personal con datos públicos; no representa la posición del MIDIS.
+> Análisis personal con datos públicos; no representa la posición del MIDIS-OFIS.
 
 ## 1. Tema y pregunta de investigación
 
@@ -82,7 +82,7 @@ No se usaron datos de hogares empadronados por distrito porque no son públicos:
 ## 6. Enlaces
 
 - Dashboard: https://municipalidades-sisfoh.streamlit.app/
-- Publicación de LinkedIn (con el reel): [https://lnkd.in/p/dPuRACQp] [https://lnkd.in/p/dXKsrUek]
+- Publicación de LinkedIn: [Reel](https://lnkd.in/p/dPuRACQp) · [Capturas del dashboard](https://lnkd.in/p/dXKsrUek)
 - Repositorio: https://github.com/Clandra91/Python_intermedio/tree/main/tarea_3
 
 ## 7. Cómo reproducir el proyecto
