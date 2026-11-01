@@ -1,6 +1,6 @@
 En el trabajo de suficiencia profesional de la autora (Pérez Pardo, 2025), sobre la operatividad del Sistema de Focalización de Hogares (SISFOH), se describió el rol clave que cumplen las municipalidades para la determinación de la Clasificación Socioeconómica (CSE) de los hogares. 
 
-Las municipalidades, a través de las Unidades Locales de Empadronamiento (ULE), son las responsables de recepcionar la solicitud de determinación de la CSE, recolectar la información del hogar a través del Formato S100 y la Ficha Socioeconómica Única (FSU), y digitarla en los aplicativos proporcionados por el MIDIS-OFIS. Además, el alcalde debe firmar las Declaraciones Juradas (DJ), mediante las cuales manifiesta que el levantamiento de información y la digitación se realizaron de acuerdo con los lineamientos establecidos en la directiva vigente sobre la operatividad del SISFOH (Ministerio de Desarrollo e Inclusión Social [MIDIS], AÑO). Cuando dichas DJ son procesadas a través de los aplicativos del MIDIS-OFIS, automáticamente se calcula la CSE del hogar, de acuerdo con el algoritmo de la metodología vigente.
+Las municipalidades, a través de las Unidades Locales de Empadronamiento (ULE), son las responsables de recepcionar la solicitud de determinación de la CSE, recolectar la información del hogar a través del Formato S100 y la Ficha Socioeconómica Única (FSU), y digitarla en los aplicativos proporcionados por el MIDIS-OFIS. Además, el alcalde debe firmar las Declaraciones Juradas (DJ), mediante las cuales manifiesta que el levantamiento de información y la digitación se realizaron de acuerdo con los lineamientos establecidos en la directiva vigente sobre la operatividad del SISFOH. Cuando dichas DJ son procesadas a través de los aplicativos del MIDIS-OFIS, automáticamente se calcula la CSE del hogar, de acuerdo con el algoritmo de la metodología vigente.
 
 Frente a lo expuesto, se puede afirmar lo siguiente:
 
@@ -34,5 +34,4 @@ Instituto Nacional de Estadística e Informática. (2026). *Registro Nacional de
 
 Ministerio de Justicia y Derechos Humanos. (2019, 11 de diciembre). *Decreto Supremo N.° 021-2019-JUS, que aprueba el Texto Único Ordenado de la Ley N.° 27806, Ley de Transparencia y Acceso a la Información Pública*. Diario Oficial El Peruano.
 
-Pérez Pardo, C. A. (2025). *Reflexión sobre la operatividad del SISFOH en el marco de la implementación de la
-Directiva 001-2020-MIDIS* [Trabajo de suficiencia profesional, Pontificia Universidad Católica del Perú]. Repositorio de Tesis PUCP. https://tesis.pucp.edu.pe/server/api/core/bitstreams/0753fee8-d829-461c-b185-57f77fa33661/content
+Pérez Pardo, C. A. (2025). *Reflexión sobre la operatividad del SISFOH en el marco de la implementación de la Directiva 001-2020-MIDIS* [Trabajo de suficiencia profesional, Pontificia Universidad Católica del Perú]. Repositorio de Tesis PUCP. http://hdl.handle.net/20.500.12404/32749
