@@ -1,0 +1,6 @@
+# No se publican: la grabación de la voz, las salidas del reel (incluyen la voz clonada)
+# y las fuentes tipográficas, que se descargan solas
+mi_voz.*
+salidas*/
+fuentes/
+musica.*

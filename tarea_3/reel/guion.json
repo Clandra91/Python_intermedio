@@ -1,0 +1,46 @@
+{
+  "titulo": "Municipalidades y SISFOH",
+  "escenas": [
+    {
+      "frase": "¿Las municipalidades con menos recursos son las que más requieren capacitación y asistencia técnica sobre la operatividad del sisfo en el Perú? Analicé los datos de mil ochocientas noventa y una municipalidades, entre dos mil veinticuatro y dos mil veintiséis.",
+      "cifra": "1 891",
+      "etiqueta": "municipalidades analizadas · RENAMU 2024–2026",
+      "imagen": "imagenes/1_mapa_municipalidades.png"
+    },
+    {
+      "frase": "Ocho de cada diez declaran que necesitan capacitación o asistencia técnica sobre el sisfo.",
+      "cifra": "8 de 10",
+      "etiqueta": "requieren capacitación o asistencia técnica sobre el SISFOH",
+      "imagen": "imagenes/2_por_anio.png"
+    },
+    {
+      "frase": "Y no es algo pasajero: más de la mitad lo pidió en las tres ediciones del registro.",
+      "cifra": "53,9 %",
+      "etiqueta": "lo pidió en las 3 ediciones",
+      "imagen": "imagenes/3_ediciones.png"
+    },
+    {
+      "frase": "Pero tener internet, computadoras o personal estable no marca la diferencia: en todos los niveles, entre setenta y cuatro y ochenta y dos por ciento lo necesita.",
+      "cifra": "74–82 %",
+      "etiqueta": "requiere apoyo, sea cual sea su nivel de capacidad",
+      "imagen": "imagenes/4_por_nivel.png"
+    },
+    {
+      "frase": "Lo que más cambia es el territorio: de setenta y dos por ciento en Áncash a ochenta y ocho por ciento en Ayacucho.",
+      "cifra": "72 a 88 %",
+      "etiqueta": "de Áncash a Ayacucho: el territorio pesa más",
+      "imagen": "imagenes/5_mapa_requiere.png"
+    },
+    {
+      "frase": "La capacitación sobre el sisfo es una necesidad de todas las municipalidades, no solo de las que tienen menos recursos.",
+      "cifra": "",
+      "etiqueta": "La capacitación sobre el SISFOH es una necesidad de todas"
+    },
+    {
+      "frase": "Explora los datos en el tablero interactivo; el enlace está en la publicación.",
+      "cifra": "",
+      "etiqueta": "Explora el tablero: enlace en la publicación",
+      "imagen": "imagenes/6_tablero.png"
+    }
+  ]
+}
