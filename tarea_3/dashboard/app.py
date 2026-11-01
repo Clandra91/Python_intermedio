@@ -147,7 +147,7 @@ columna = APOYO[apoyo]
 # ---------------------------------------------------------------- Encabezado
 st.title("¿Las municipalidades con menos capacidades piden más capacitaciones y soporte técnico sobre el SISFOH?")
 st.caption("Municipalidades del Perú, RENAMU 2024–2026 (INEI). Análisis personal con datos públicos; "
-           "no representa la posición del MIDIS.")
+           "no representa la posición del MIDIS-OFIS.")
 
 if datos.empty:
     st.warning("No hay datos para esta combinación de filtros. Revisa el ubigeo o la ubicación elegida, "
