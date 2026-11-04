@@ -1,0 +1,9 @@
+# Microdatos originales de la ENAHO 2024: se descargan del INEI (ver README).
+# No se publican por su peso.
+datos/
+
+# Base de personas que arma la Skill limpiando-enaho; se vuelve a generar al correrla.
+salidas/*.parquet
+
+# Permisos locales de Claude Code en esta computadora.
+.claude/settings.local.json
