@@ -1,0 +1,26 @@
+codigo,nombre_departamento,pobreza_calculada,pobreza_referencia,diferencia
+01,Amazonas,26.08,25.7,0.38
+02,Áncash,22.88,22.8,0.08
+03,Apurímac,24.09,24.0,0.09
+04,Arequipa,15.77,15.8,-0.03
+05,Ayacucho,33.04,32.8,0.24
+06,Cajamarca,44.99,45.0,-0.01
+07,Callao,33.77,33.9,-0.13
+08,Cusco,18.54,18.5,0.04
+09,Huancavelica,33.61,33.4,0.21
+10,Huánuco,39.47,39.0,0.47
+11,Ica,5.91,6.0,-0.09
+12,Junín,18.61,18.5,0.11
+13,La Libertad,30.07,30.2,-0.13
+14,Lambayeque,14.05,14.0,0.05
+15,Lima,26.89,27.1,-0.21
+16,Loreto,42.61,43.0,-0.39
+17,Madre de Dios,11.14,11.1,0.04
+18,Moquegua,10.88,11.0,-0.12
+19,Pasco,39.28,39.0,0.28
+20,Piura,31.81,31.9,-0.09
+21,Puno,40.42,39.9,0.52
+22,San Martín,21.99,22.0,-0.01
+23,Tacna,23.88,24.0,-0.12
+24,Tumbes,26.6,26.9,-0.3
+25,Ucayali,27.12,27.1,0.02
