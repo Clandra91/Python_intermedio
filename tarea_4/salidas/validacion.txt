@@ -1,5 +1,5 @@
 Validación de la limpieza de la ENAHO 2024 (módulos 34 y 02)
-Generado el 2026-11-07 21:10 con .claude/skills/limpiando-enaho/scripts/limpiar.py
+Generado el 2026-11-07 23:46 con .claude/skills/limpiando-enaho/scripts/limpiar.py
 
 Verificaciones esenciales (si una falla, el proceso se detiene y no se guarda la base)
   [APROBADA] Llaves como texto, con sus ceros iniciales: conglome 6 caracteres, vivienda 3 caracteres, hogar 2 caracteres, codperso 2 caracteres, ubigeo 6 caracteres
