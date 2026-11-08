@@ -1,0 +1,32 @@
+Validación de la limpieza de la ENAHO 2024 (módulos 34 y 02)
+Generado el 2026-11-07 21:10 con .claude/skills/limpiando-enaho/scripts/limpiar.py
+
+Verificaciones esenciales (si una falla, el proceso se detiene y no se guarda la base)
+  [APROBADA] Llaves como texto, con sus ceros iniciales: conglome 6 caracteres, vivienda 3 caracteres, hogar 2 caracteres, codperso 2 caracteres, ubigeo 6 caracteres
+  [APROBADA] Hogares únicos en la sumaria: 33,691 hogares, 0 repetidos
+  [APROBADA] Personas únicas en el módulo 02: 117,721 filas, 0 repetidas
+  [APROBADA] Residentes habituales: 108,664 de 117,721 filas (esperado 108,664)
+  [APROBADA] Unión personas-hogares m:1 sin pérdidas ni duplicados: 108,664 filas antes y 108,664 después; 0 personas sin hogar
+  [APROBADA] 25 departamentos (01 a 25): 25 códigos: 01 a 25
+  [APROBADA] Sexo, edad y área sin vacíos: 0 vacíos
+  [APROBADA] Factor de expansión facpob07 completo y positivo: 0 vacíos; representa a 34,147,766 personas
+  [APROBADA] Pobreza monetaria nacional, ponderada con facpob07: 27.53 % (INEI 27.6 %, diferencia -0.07; máximo ±0.1)
+
+Verificaciones complementarias (método oficial del INEI: sumaria con factor07 × mieperho)
+  [APROBADA] Pobreza nacional: 27.58 % (INEI 27.6 %, diferencia -0.02)
+  [APROBADA] Pobreza urbana: 24.81 % (INEI 24.8 %, diferencia +0.01)
+  [APROBADA] Pobreza rural: 39.30 % (INEI 39.3 %, diferencia +0.00)
+  [APROBADA] El facpob07 de cada persona es el factor07 de su hogar: sí, en las 108,664 filas
+
+Cifras de la base de residentes (ponderadas con facpob07)
+  Nacional 27.53 % · urbana 24.74 % · rural 39.44 % · pobreza extrema 5.50 %
+  Sin ponderar, el promedio simple da 25.61 %: 1.9 puntos menos. Por eso toda cifra se pondera.
+
+Por qué la base de residentes y la sumaria difieren en unas décimas
+  La base cuenta a los 108,664 residentes habituales (el filtro que pide la tarea). La sumaria, con la que
+  el INEI publica sus cifras, cuenta a los 109,842 miembros del hogar (mieperho): incluye a los
+  miembros ausentes por más de 30 días y no incluye a los no miembros que viven en la vivienda. El factor es el
+  mismo, así que la diferencia viene solo de a quiénes se cuenta: -0.05 puntos en la nacional, -0.07 en la urbana, +0.14 en la rural.
+  No se corrige nada para igualar la referencia.
+
+Resultado: 13 de 13 verificaciones aprobadas.
